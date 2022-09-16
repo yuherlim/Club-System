@@ -6,3 +6,7 @@ The code that I contributed can be found through finding for the term "booking m
 johnson1125 was tasked to complete the membership module.
 
 khokajie was tasked to complete the facility module.
+
+realDoubleQue was tasked to complete the facility usage module.
+
+Lim Jia Qing was tasked to complete the staff module and login.
